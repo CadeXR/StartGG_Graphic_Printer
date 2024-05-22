@@ -1,0 +1,17 @@
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.AssemblyInfoInputs.cache
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.AssemblyInfo.cs
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.csproj.CoreCompileInputs.cache
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.csproj.AssemblyReference.cache
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\bin\Debug\net8.0\SectorXMMRstart.gg.exe
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\bin\Debug\net8.0\SectorXMMRstart.gg.deps.json
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\bin\Debug\net8.0\SectorXMMRstart.gg.runtimeconfig.json
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\bin\Debug\net8.0\SectorXMMRstart.gg.dll
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\bin\Debug\net8.0\SectorXMMRstart.gg.pdb
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.csproj.CopyComplete
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.dll
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\refint\SectorXMMRstart.gg.dll
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.pdb
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\SectorXMMRstart.gg.genruntimeconfig.cache
+C:\Users\cadeg\source\repos\SectorXMMRstart.gg\SectorXMMRstart.gg\obj\Debug\net8.0\ref\SectorXMMRstart.gg.dll
